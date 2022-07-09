@@ -1,6 +1,6 @@
-# Aptos Coin List
+# Aptosis Coin List
 
-The Moving Company's list of coins on Aptos. Currently only supports devnet.
+A list of devnet coins on Aptos, powered by Aptosis. Currently only supports devnet.
 
 ## License
 
